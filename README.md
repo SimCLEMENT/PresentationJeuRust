@@ -4,13 +4,17 @@
 
 # Site de présentation du jeu Rust
 
-Ce site a pour objectif de présenter un jeu du nom de Rust.
+Site vitrine présentant le jeu de survie en multijoueur Rust.
 
-## Contexte
+🔗 **Voir le projet en ligne :** https://simclement.github.io/SiteRustPremiere.github.io/
+
+🎥 **Démo vidéo :** [lien YouTube non répertorié]
+
+## 📖 Contexte
 
 Ce site a été développé au cours d'un projet durant ma première générale en NSI (Numérique et Sciences Informatiques). Le but était de réaliser un petit site pour présenter un de nos jeux favoris. J'ai donc choisi le jeu Rust, un jeu de survie en multijoueur.
 
-## Fonctionnalités
+## ✨ Fonctionnalités
 
 - Une première page d'accueil avec une vidéo en arrière-plan et le menu en haut.
 - Une page "BUT DU JEU" pour présenter le jeu de manière globale.
@@ -18,17 +22,11 @@ Ce site a été développé au cours d'un projet durant ma première générale 
 - Une page "SITE OFFICIEL" qui renvoie directement au site officiel du jeu.
 - Une page "ACHETER LE JEU" qui renvoie à la page Steam du jeu pour pouvoir l'acheter.
 
-## Langages utilisés
+## 🛠️ Langages et technologies utilisés
 
-Les langages utilisés sont :
 - HTML
 - CSS
 
-## Utilisation
+## ✍️ Auteur(s)
 
-Voici le lien du site, pour voir à quoi il ressemble :
-https://simclement.github.io/SiteRustPremiere.github.io/
-
-## Auteur
-
-Simon CLEMENT
+- Simon CLEMENT
