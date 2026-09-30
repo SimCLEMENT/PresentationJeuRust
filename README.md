@@ -8,8 +8,6 @@ Site vitrine présentant le jeu de survie en multijoueur Rust.
 
 🔗 **Voir le projet en ligne :** https://simclement.github.io/SiteRustPremiere.github.io/
 
-🎥 **Démo vidéo :** [lien YouTube non répertorié]
-
 ## 📖 Contexte
 
 Ce site a été développé au cours d'un projet durant ma première générale en NSI (Numérique et Sciences Informatiques). Le but était de réaliser un petit site pour présenter un de nos jeux favoris. J'ai donc choisi le jeu Rust, un jeu de survie en multijoueur.
@@ -27,6 +25,6 @@ Ce site a été développé au cours d'un projet durant ma première générale 
 - HTML
 - CSS
 
-## ✍️ Auteur(s)
+## ✍️ Auteur
 
 - Simon CLEMENT
